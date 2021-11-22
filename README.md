@@ -9,7 +9,7 @@ NCU-Trading-Application is a campus trading application for students or facultie
 ## A quick look:
 ![NCU QuickView](https://github.com/liam0504/NCU-Trading-Application/blob/main/stuff/video1.gif)
 
-## Database schema
+## Database schema:
 
 <p align="center">
 <img src="https://github.com/liam0504/NCU-Trading-Application/blob/main/stuff/1637592300894.jpg"/>
